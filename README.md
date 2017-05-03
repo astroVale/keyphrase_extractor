@@ -1,11 +1,13 @@
 # keywords_generator
-Python 3 package which generates the most important keywords from a document based on a corpus.
+Python 3 package which generates the most important key-phrases / key-words from text files.
 
 ## Scripts:
 * The *scripts.zip* archive contains:
    - one script file (*script.txt*)
    - 3 transcript files (*transcript1...3.txt*)
-*  ```keywords_extraction.ipynb``` - Jupyther Notebook for keywords extraction
+* ```keyphrases_extraction.py``` - Python class to extract key-phrases from text files
+* ```main.py``` - The main script to run and get key-phrases
+*  ```keywords_extraction.ipynb``` - Jupyter Notebook for keywords extraction
  
 ## Instructions
 1. Install the necessary requirements using the ```requirements.txt``` file.
