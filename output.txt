@@ -1,0 +1,11 @@
+Keyphrase  score
+food: 46.00
+foods: 15.00
+people: 13.45
+countries: 12.09
+example: 11.01
+prices: 11.01
+animals: 10.58
+many cultures: 9.58
+farmers: 9.58
+flavor: 9.06
